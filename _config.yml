@@ -10,6 +10,14 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://clockworklabs.github.io" # the base hostname & protocol for your site
 twitter_username: clockwork_labs
 github_username:  clockworklabs
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "main"
+    path: "/blog"
+  repository_url: "https://github.com/clockworklabs/clockworklabs.github.io"
 
 # Build settings
 markdown: GFM
