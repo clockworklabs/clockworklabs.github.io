@@ -12,4 +12,5 @@ twitter_username: clockwork_labs
 github_username:  clockworklabs
 
 # Build settings
+markdown: GFM
 permalink: /:year/:title:output_ext
